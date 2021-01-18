@@ -1,0 +1,37 @@
+.. _ruby-mongoid-tutorial:
+
+*******
+Mongoid
+*******
+
+.. default-domain:: mongodb
+
+Mongoid is the officially supported object-document mapper (ODM)
+for MongoDB in Ruby.
+
+.. toctree::
+   :titlesonly:
+
+   /tutorials/getting-started-sinatra
+   /tutorials/getting-started-rails
+   /tutorials/mongoid-installation
+   /tutorials/mongoid-configuration
+   /tutorials/mongoid-documents
+   /tutorials/mongoid-persistence
+   /tutorials/mongoid-queries
+   /tutorials/mongoid-relations
+   /tutorials/mongoid-nested-attributes
+   /tutorials/mongoid-callbacks
+   /tutorials/mongoid-validation
+   /tutorials/mongoid-indexes
+   /tutorials/sharding
+   /tutorials/mongoid-sessions
+   /tutorials/mongoid-transactions
+   /tutorials/mongoid-rails
+   /tutorials/mongoid-upgrade
+   API <https://docs.mongodb.com/mongoid/master/api/>
+   /additional-resources
+   /ecosystem
+
+
+For documentation on Mongoid 3 and 4, see `<http://mongoid.github.io>`_.
